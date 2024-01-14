@@ -16,11 +16,12 @@ header h1 {
 header h4 {
     margin-top: 32px;
     color: #93BFCF;
+    font-size: 20px;
 }
 
 header p {
-    margin-top: -10px;
-    font-size: x-small;
+    margin-top: -25px;
+    font-size: 15px;
     color: #93BFCF;
 }
 
@@ -48,6 +49,7 @@ button {
     border-radius: 8px;
     padding: 10px 20px;
     cursor: pointer;
+    margin-top: 15px;
 }
 
 button:hover {
