@@ -4,30 +4,36 @@ body {
 
 header {
     text-align: center;
+    background-color: #93BFCF;
 }
 
 header h1 {
     color: #fcfaf3;
-    background-color: #93BFCF;
+    font-size: 50px;
     padding: 30px;
     margin-top: 5px;
 }
 
 header h4 {
-    margin-top: 32px;
-    color: #93BFCF;
+    color: #1b4250;
     font-size: 20px;
+    margin-top: -30px;
 }
 
 header p {
-    margin-top: -25px;
-    font-size: 15px;
-    color: #93BFCF;
+    margin-top: -30px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    color: #1b4250;
 }
 
 .inputSection {
     display: flex;
     flex-direction: column;
+}
+
+#lblSquareSideS {
+    font-size: 25px;
 }
 
 #squareSide {
@@ -44,7 +50,8 @@ header p {
 
 button {
     background-color: #54a0cc;
-    color: whitesmoke;
+    color: rgb(230, 249, 246);
+    font-size: 20px;
     border: none;
     border-radius: 8px;
     padding: 10px 20px;
