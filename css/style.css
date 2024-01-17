@@ -27,6 +27,23 @@ header p {
     color: #1b4250;
 }
 
+div.image {
+    border-style: groove;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 450px;
+}
+
+p.desc {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
 .inputSection {
     display: flex;
     flex-direction: column;
