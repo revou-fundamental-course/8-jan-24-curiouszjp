@@ -81,6 +81,12 @@ p {
     padding: 10px;
 }
 
+footer {
+    padding: 20px;
+    color: #fcfaf3;
+    background-color: #93BFCF;
+}
+
 button {
     background-color: #54a0cc;
     color: rgb(230, 249, 246);
